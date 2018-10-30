@@ -1,5 +1,7 @@
 # PaymentSystemServer
 
+3Tier playground app
+
 change connectionsString in appsettings.json
 
 then Update-Database
